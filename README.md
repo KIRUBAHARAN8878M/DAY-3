@@ -1,7 +1,5 @@
 # DAY-3
-<-GUVI TASK ->
 
-<-DAY3->
 
 (1) own resume data in JSON format 
 
